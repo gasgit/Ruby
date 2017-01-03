@@ -10,6 +10,7 @@ end
 def hello.laugh
     puts"Ha ha from format 1"
 end
+# print as string using #{expr}
 print "#{hello.talk}"
 print "#{hello.laugh}"
 
@@ -28,7 +29,7 @@ obj.talk
 obj.laugh
 
 
-#format 3 
+#format 3
 class Student
   @@student_count=0
   def initialize(id,first,last)

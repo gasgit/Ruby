@@ -1,4 +1,4 @@
-!#/usr/bin/ruby
+#!/usr/bin/ruby
 
 # normal for loop
 for i in 0..10

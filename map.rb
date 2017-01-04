@@ -1,4 +1,4 @@
-!#/usr/bin/ruby
+#!/usr/bin/ruby
 # add key values
 myMap = hours = { "1" => "one", "2" => "two", "3" => "three"}
 # for each extarct k, v

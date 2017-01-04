@@ -1,4 +1,4 @@
-!#/usr/bin/ruby
+#!/usr/bin/ruby
 # for in range
 (6..16).each do |n|
   print n," "

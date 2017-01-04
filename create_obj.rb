@@ -1,4 +1,4 @@
-!#/usr/bin/ruby
+#!/usr/bin/ruby
 print "Create Objects Ruby \n"
 
 # format 1 create object and methods

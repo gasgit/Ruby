@@ -1,4 +1,4 @@
-!#/usr/bin/ruby
+#!/usr/bin/ruby
 
 # for each on array different elements
 array = ["one", 2, "three", 4, 5.0 ]

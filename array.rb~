@@ -23,7 +23,7 @@ end
 
 puts "***************************************************"
 
-# collect iterator returns collection to b
+# collect iterator retur
 a = [2,3,4,5,6]
 b = Array.new
 b = a.collect{ |e| e }
@@ -33,7 +33,7 @@ puts b
 
 puts "***************************************************"
 
-# collect iterator multiply element a by 10 to b
+# collect iterator multiply element a by 10
 a = [2,3,4,5,6]
 b = Array.new
 b = a.collect{ |x| 10*x }

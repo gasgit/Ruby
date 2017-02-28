@@ -39,23 +39,23 @@ end
 
 person1 = Person.new(123, 'john', 'snow')
 
-i = person1.getId()
-f = person1.getFirstName()
-l = person1.getLastName()
+id = person1.getId()
+fn = person1.getFirstName()
+ln = person1.getLastName()
 
-puts"Before ID is: #{i}"
-puts"First Name: #{f}"
-puts"Last Name: #{l}"
+puts"Before ID is: #{id}"
+puts"Before First Name: #{fn}"
+puts"Before Last Name: #{ln}"
 
 person1.setId = 2000
 person1.setFirstName = 'jack'
 person1.setLastName = 'frost'
 
-i = person1.getId()
-f = person1.getFirstName()
-l = person1.getLastName()
+id = person1.getId()
+fn = person1.getFirstName()
+ln = person1.getLastName()
 
 
-puts"After ID is: #{i}"
-puts"First Name: #{f}"
-puts"Last Name: #{l}"
+puts"After ID is: #{id}"
+puts"After First Name: #{fn}"
+puts"After Last Name: #{ln}"
